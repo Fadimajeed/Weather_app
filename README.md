@@ -6,8 +6,9 @@ A beautiful weather application with real-time forecasts, animated weather visua
 
 ![image_ult](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327580.png?raw=true)
 ![image_ult](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327584.png?raw=true)
-![image_ult]([https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327584.png?raw=true](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327636.png?raw=true))
-![image_ult]([https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327584.png?raw=true](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327637.png?raw=true))
+![image_ult](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327636.png?raw=true)
+![image_ult](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327637.png?raw=true)
+![image_ult](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327702.png?raw=true)
 
 ## Features ✨
 
