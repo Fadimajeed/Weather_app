@@ -36,7 +36,7 @@ To set up and run the weather application locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+   git clone https://github.com/Fadimajeed/Weather_app.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -107,9 +107,6 @@ This approach promotes unidirectional data flow, testability, and improved perfo
 ![Baghdad weather search](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327637.png?raw=true)
 ![London weather details](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327702.png?raw=true)
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, please feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
