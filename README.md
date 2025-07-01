@@ -4,7 +4,7 @@ A beautiful weather application with real-time forecasts, animated weather visua
 
 ![App Screenshot](https://raw.githubusercontent.com/yourusername/weather-app/main/screenshots/app_demo.gif)
 
-
+![image_ult](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327580.png?raw=true)
 ## Features ✨
 
 - **Real-time Weather Data**:
