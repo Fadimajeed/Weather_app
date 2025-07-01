@@ -1,16 +1,51 @@
 # weather_app
 
-A new Flutter project.
+A beautiful weather application with real-time forecasts, animated weather visualizations, and location-based services. Features dynamic background gradients, custom weather icons, and detailed meteorological data.
 
-## Getting Started
+![App Screenshot](https://raw.githubusercontent.com/yourusername/weather-app/main/screenshots/app_demo.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features ✨
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Real-time Weather Data**:
+  - Current conditions
+  - Temperature, humidity, wind speed
+  - Sunrise/sunset times
+- **Visualizations**:
+  - Custom-painted weather icons (sun, clouds, rain, etc.)
+  - Temperature chart for next 5 hours
+  - Sunrise/sunset arc visualization
+- **Location Services**:
+  - Automatic location detection
+  - City search functionality
+- **Responsive UI**:
+  - Dynamic background gradients based on weather conditions
+  - Animated transitions
+- **Forecast Data**:
+  - 5-day weather forecast
+  - Hourly temperature predictions
+    
+## Installation ⚙️
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+Install dependencies:
+
+bash
+cd weather-app
+flutter pub get
+Add API configuration:
+
+Create .env file in root directory
+
+Add your OpenWeatherMap API key:
+
+env
+API_KEY=your_openweather_api_key
+Run the app:
+
+bash
+flutter run
+
