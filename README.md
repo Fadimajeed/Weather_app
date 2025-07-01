@@ -2,9 +2,11 @@
 
 A beautiful weather application with real-time forecasts, animated weather visualizations, and location-based services. Features dynamic background gradients, custom weather icons, and detailed meteorological data.
 
-![App Screenshot](https://raw.githubusercontent.com/yourusername/weather-app/main/screenshots/app_demo.gif)
+![App Screenshot]([https://raw.githubusercontent.com/yourusername/weather-app/main/screenshots/app_demo.gif](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327584.png?raw=true))
 
 ![image_ult](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327580.png?raw=true)
+![image_ult](https://github.com/Fadimajeed/Weather_app/blob/master/weather-app-images/Screenshot_1751327584.png?raw=true)
+
 ## Features ✨
 
 - **Real-time Weather Data**:
