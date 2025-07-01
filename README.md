@@ -34,11 +34,11 @@ To set up and run the weather application locally, follow these steps:
 
 ### Installation
 
-1.  **Clone the repository:**
+1.  Clone the repository:
     ```bash
-   git clone https://github.com/Fadimajeed/Weather_app.git
+    git clon https://github.com/Fadimajeed/Weather_app.git
     ```
-2.  **Navigate to the project directory:**
+2.  Navigate to the project directory:
     ```bash
     cd weather_app
     ```
